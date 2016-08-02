@@ -1,11 +1,14 @@
-# Fastest Bot for pokemon go
+# Redox : the fastest Bot for pokemon go
 
 * Official discord channel for user and developer discussions.
-* Not available yet
+* https://discord.gg/DrRNe
+
+* Official Facebook page 
+* https://www.facebook.com/PokemonGoBotMfron/
 
 #Window
-![alt tag](https://github.com/mfron/PokemonGo-Bot/blob/master/BotInterface.png)
-![alt tag](https://github.com/mfron/PokemonGo-Bot/blob/master/settings%20pokemongo.png)
+![alt tag](https://github.com/Pokemon-Go-Bot/Redox-PokemonGo-Bot/blob/master/BotInterface.png)
+![alt tag] (https://github.com/Pokemon-Go-Bot/Redox-PokemonGo-Bot/blob/master/settings%20pokemongo.png)
 
 
 A Pokémon Go bot in C#
