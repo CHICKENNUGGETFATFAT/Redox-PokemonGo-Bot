@@ -1,7 +1,7 @@
 # Redox : the fastest Bot for pokemon go
 
 * Official discord channel for user and developer discussions.
-* https://discord.gg/DrRNe
+* https://discord.gg/t2PtJtr
 
 * Official Facebook page 
 * https://www.facebook.com/PokemonGoBotMfron/
